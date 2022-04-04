@@ -29,6 +29,10 @@
     background-color: #00D84A;
 }
 
+.show-more-btn-container{
+    margin-bottom: 50px;
+}
+
 .know-more-btn{
     height: 45px;
     width: 150px;

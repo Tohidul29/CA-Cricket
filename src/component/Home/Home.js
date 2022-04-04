@@ -34,7 +34,7 @@ const Home = () => {
                     </User>)
                 }
             </div>
-            <div>
+            <div className='show-more-btn-container'>
                 <Link to='/reviews'>
                     <button className='show-more-btn'>Show more results</button>
                 </Link>

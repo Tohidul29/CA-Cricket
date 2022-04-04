@@ -1,0 +1,22 @@
+.user-container{
+    background-color: rgba(250, 235, 215, 0.078);
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+
+.user-container img{
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+}
+
+.user-name-img{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.user-rating{
+    margin-bottom: auto;
+}

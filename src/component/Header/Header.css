@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+}
+
+.navbar a:hover{
+    border-bottom: 2px solid orange;
+    color: orange;
+    margin-left: 25px;
+    font-weight: bold;
+}

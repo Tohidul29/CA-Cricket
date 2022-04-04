@@ -1,6 +1,11 @@
+.main-head{
+    color: #120E43;
+}
+
 .graphs{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     width: 1000px;
     margin: auto;
+    margin-bottom: 50px;
 }

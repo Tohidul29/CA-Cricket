@@ -14,8 +14,10 @@
     margin-top: 30px;
     font-size: 16px;
     color: aliceblue;
-    background-color: blue;
+    background-color: #120E43;
+    font-weight: bold;
 }
+
 .show-more-btn:hover{
     height: 45px;
     width: 150px;
@@ -24,5 +26,53 @@
     margin-top: 30px;
     font-size: 16px;
     color: aliceblue;
-    background-color: orange;
+    background-color: #00D84A;
+}
+
+.know-more-btn{
+    height: 45px;
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 30px;
+    font-size: 16px;
+    color: aliceblue;
+    background-color: #00D84A;  
+}
+
+.know-more-btn:hover{
+    height: 45px;
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 30px;
+    font-size: 16px;
+    color: aliceblue;
+    background-color: #120E43;  
+}
+
+.main-container{
+    margin-top: 100px;
+    justify-content: space-between;
+    margin: auto;
+    width: 900px;
+    display: flex;
+    align-items: center;
+}
+
+.container-head{
+    font-size: 35px;
+}
+
+.container-head .semi-head{
+    color: #3DBE29;
+}
+
+.sub-head{
+    margin-top: 50px;
+}
+
+.main-container img{
+    height: 400px;
+    width: 400px;
 }

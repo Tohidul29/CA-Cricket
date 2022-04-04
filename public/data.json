@@ -3,7 +3,7 @@
       "id": "01",
       "name": "Shakib Al Hasan",
       "img": "https://images.news18.com/ibnlive/uploads/2021/08/1628597181_shakib-al-hasan.jpg",
-      "review": "My first love is CA cricket bat. Couple of years I played by CA 8000 Cricket Bat. One of the most powerful willows in recent world it's CA Cricket BAT.",
+      "review": "My first love is CA cricket bat. Couple of years I played with CA 8000 Cricket Bat. One of the most powerful willows in recent world it's CA Cricket BAT.",
       "rating": 4.5
     },
     {
@@ -67,6 +67,20 @@
       "name": "Misbah-Ul-Haq",
       "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-462977718-e1522231641895.jpg",
       "review": "CA willow is not only for power hitting but also as a defensive cricket. I realize that in test matches. Love you CA.",
+      "rating": 5
+    },
+    {
+      "id": "11",
+      "name": "Jason Roy",
+      "img": "https://imgk.timesnownews.com/story/Jason-Roy-AP.jpg?tr=w-1200,h-900",
+      "review": "Actually, sports gear is not only for playing, it's the way to earn our living income. That willow gives us the hope to live.",
+      "rating": 4.9
+    },
+    {
+      "id": "11",
+      "name": "Asif Ali",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/323600/323630.3.jpg",
+      "review": "From starting my U-19 career, I used to play with CA willow and still I am with it. One of the strong cricket bats on my eyes.",
       "rating": 5
     }
 ]

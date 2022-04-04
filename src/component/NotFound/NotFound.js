@@ -1,9 +1,11 @@
 import React from 'react';
+import './NotFound.css'
+import Logo from '../../img/404-img.jpg'
 
 const NotFound = () => {
     return (
-        <div>
-            <h1>This is 404 not found page!!!</h1>
+        <div className='not-found-container'>
+            <img src={Logo} alt="" />
         </div>
     );
 };

@@ -1,7 +1,13 @@
+.main-head{
+    margin: 40px 0px;
+}
+
+
 .players-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
     width: 900px;
     margin: auto;
+    margin-bottom: 30px;
 }

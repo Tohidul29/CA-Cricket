@@ -12,8 +12,10 @@
 }
 
 .navbar a:hover{
-    border-bottom: 2px solid orange;
     color: orange;
     margin-left: 25px;
-    font-weight: bold;
+}
+
+.website-main-header{
+    color: #120E43;
 }

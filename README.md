@@ -4,9 +4,5 @@ I am trying to make a website named [CA Cricket](https://golden-sundae-99a03b.ne
 
 ## What's about my website:
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
+..* The name of my website is CA Cricket. Specially, I am trying to represent one of the best sports companies in this world.
 

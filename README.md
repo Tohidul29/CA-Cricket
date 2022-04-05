@@ -1,6 +1,6 @@
 # CA CRICKET
 
-I am trying to make a website named [CA Cricket](https://golden-sundae-99a03b.netlify.app/reviews).
+That's the live site link of my website: [CA Cricket](https://golden-sundae-99a03b.netlify.app/reviews).
 
 ## What's about my website:
 
